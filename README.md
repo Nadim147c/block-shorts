@@ -17,10 +17,10 @@ IT removes all traces of YouTube shorts distractions in Feed and videos. This fi
 3. Filter Lists
 4. 'Import...'
 5. Paste this link below
-- `https://raw.githubusercontent.com/tz-shuhag/block-shorts/refs/heads/main/block%20shorts.txt`
+- `https://raw.githubusercontent.com/tz-shuhag/block-shorts/main/block%20shorts.txt`
 
 For Mobile Browser Like (Brave, Cromite,...)
-- `https://raw.githubusercontent.com/tz-shuhag/block-shorts/refs/heads/main/mobile-shorts.txt`
+- `https://raw.githubusercontent.com/tz-shuhag/block-shorts/main/mobile-shorts.txt`
 
 6. Click Apply Changes
 
